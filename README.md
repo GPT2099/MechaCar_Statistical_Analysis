@@ -23,6 +23,10 @@
 - Lot 1 and 2 have normal distribution. (p-values of 1, and 0.06)
 - Lot 3 has a p-value of 0.04 which is lower than the standard. Therefore we cannot assume normal distribution
 
+## Study Design: MechaCar vs Competition
+Horse Power, horse power, horse power... My statistical study will focuse on the towing capacity of MechaCar vs the competition. Horse power will be the metric used asssuming this metric is analagous with towing capacity. My null hypothesis is that the MechaCars have a higher horse power than that of the competition. My alternative hypothesis is that they do not have higher horse power. The study will use a Two-sample t-Test becuase it will compare two samples of dichotomous data. The study will require data on the competitions horse power compared with the MechaCar data horse power. 
+
+
 
 
 
