@@ -19,6 +19,10 @@
 
 ## T-Tests on Suspension Coils
 ![](Images/T_Test.PNG)
+- Distribution is normal because our p-value is at 0.06, higher than the standard of 0.05
+- Lot 1 and 2 have normal distribution. (p-values of 1, and 0.06)
+- Lot 3 has a p-value of 0.04 which is lower than the standard. Therefore we cannot assume normal distribution
+
 
 
 
