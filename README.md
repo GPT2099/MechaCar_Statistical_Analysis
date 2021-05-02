@@ -17,6 +17,9 @@
 ![](Images/Summary.PNG)
 ![](Images/Lot_Summary.PNG)
 
+## T-Tests on Suspension Coils
+![](Images/T_Test.PNG)
+
 
 
 
