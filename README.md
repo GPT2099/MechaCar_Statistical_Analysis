@@ -1,5 +1,8 @@
 # MechaCar_Statistical_Analysis
 
+## Overview
+The MechaCar, AutoRUs' newest prototype has been suffering from production troubles stopping the manufacturing team's progress. This analysis was performed to provide insights by using statistical tests. 
+
 ## Linear Regression to Predict MPG
 1) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 - Vehicle Length and Ground Clearance
